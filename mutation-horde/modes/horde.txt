@@ -1,0 +1,13 @@
+"horde"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty"	"1"
+
+	"DisplayTitle"	"THE HORDE"
+	"Description"	"You can kill one zombie. How about a thousand?"
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+

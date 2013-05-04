@@ -1,0 +1,12 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: THE HORDE"
+	addonversion 1.0
+	addontagline "You can kill one zombie. How about a thousand?"
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	//addonURL0 ""
+	addonDescription "This mutation removes all special infected and increases the limit on common infected from 30 to 1000."
+}
+
