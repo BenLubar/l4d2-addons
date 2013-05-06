@@ -1,0 +1,12 @@
+"spvs"
+{
+	"base"		"versus"
+
+	"maxplayers"	"1"
+
+	"DisplayTitle"	"Singleplayer Versus"
+	"Description"	"Even if you have no friends, you can still play special infected."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+

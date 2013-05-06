@@ -1,0 +1,12 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: The Floor is Lava"
+	addonversion 1.0
+	addontagline "Hate spitters? Now you'll hate them more."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	//addonURL0 ""
+	addonDescription "Hate spitters? Now you'll hate them more."
+}
+

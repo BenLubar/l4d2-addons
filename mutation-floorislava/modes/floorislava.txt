@@ -1,0 +1,13 @@
+"floorislava"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"The Floor is Lava"
+	"Description"	"Hate spitters? Now you'll hate them more."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+

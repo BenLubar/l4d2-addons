@@ -1,14 +1,14 @@
 MutationOptions <-
 {
-	CommonLimit = 1000
+	CommonLimit = 400
 	MobMinSize  = 50
 	MobMaxSize  = 300
 
 	RelaxMinInterval = 5  // seconds
 	RelaxMaxInterval = 60 // seconds
 
-	WanderingZombieDensityModifier = 2
-	AlwaysAllowWanderers = 1
+	//WanderingZombieDensityModifier = 2
+	//AlwaysAllowWanderers = 1
 
 	// Disable all specials
 	MaxSpecials  = 0
