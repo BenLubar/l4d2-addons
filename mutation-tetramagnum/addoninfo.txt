@@ -1,0 +1,12 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Tetramagnum"
+	addonversion 1.0
+	addontagline "Four survivors. Four magnum pistols."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	//addonURL0 ""
+	addonDescription "Four survivors. Four magnum pistols."
+}
+

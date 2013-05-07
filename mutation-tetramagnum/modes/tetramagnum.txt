@@ -1,0 +1,13 @@
+"tetramagnum"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Tetramagnum"
+	"Description"	"Four survivors. Four magnum pistols."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+
