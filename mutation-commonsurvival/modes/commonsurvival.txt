@@ -1,0 +1,12 @@
+"commonsurvival"
+{
+	"base"		"survival"
+
+	"maxplayers"	"4"
+
+	"DisplayTitle"	"Common Survival"
+	"Description"	"Survival mode, but without special infected."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+

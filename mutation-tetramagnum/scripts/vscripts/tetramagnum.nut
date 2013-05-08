@@ -1,12 +1,27 @@
 MutationOptions <- {
+	CommonLimit = 60
+
+	MaxSpecials  = 8
 	WitchLimit   = 0
 	TankLimit    = 0
-	// BoomerLimit left out
+	BoomerLimit  = 8
 	ChargerLimit = 0
 	HunterLimit  = 0
 	JockeyLimit  = 0
 	SpitterLimit = 0
 	SmokerLimit  = 0
+
+	weaponsToConvert = {
+		weapon_first_aid_kit = "weapon_pain_pills_spawn"
+	}
+	AllowPillConversion = 0
+
+	function ConvertWeaponSpawn( classname ) {
+		if (classname in weaponsToConvert) {
+			return weaponsToConvert[classname];
+		}
+		return 0;
+	}
 
 	weaponsToAllow = {
 		weapon_first_aid_kit = 1

@@ -1,0 +1,13 @@
+"fleshwound"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"It's only a flesh wound"
+	"Description"	"Walk it off."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+
