@@ -1,0 +1,13 @@
+"yolo"
+{
+	"base"		"realism"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"YOLO"
+	"Description"	"You only live once. Unless someone brought a defibrillator."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+
