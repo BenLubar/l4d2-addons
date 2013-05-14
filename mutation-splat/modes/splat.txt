@@ -1,0 +1,13 @@
+"splat"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Splat!"
+	"Description"	"Boomers. Vomit. Death."
+	"Image"		"maps/any"
+	"Author"	"Nightgunner5"
+}
+
