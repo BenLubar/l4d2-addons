@@ -1,5 +1,6 @@
 MutationOptions <- {
 	CommonLimit = 30
+	MobMinSize  = 30
 	MobMaxSize  = 30
 
 	// Disable all specials
@@ -40,12 +41,14 @@ NewHUD <- {
 
 function OnGameEvent_survival_round_start( params ) {
 	DirectorOptions.CommonLimit <- 15;
+	DirectorOptions.MobMinSize <- 15;
 	DirectorOptions.MobMaxSize <- 15;
 }
 
 function OnGameEvent_create_panic_event( params ) {
 	DirectorOptions.CommonLimit += 15;
-	DirectorOptions.MaxMobSize += 15;
+	DirectorOptions.MobMinSize += 15;
+	DirectorOptions.MobMaxSize += 15;
 }
 
 HUDSetLayout( NewHUD )
