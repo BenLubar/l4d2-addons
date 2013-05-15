@@ -1,7 +1,6 @@
 MutationOptions <- {
-	CommonLimit = 5
-	MobMinSize  = 50
-	MobMaxSize  = 300
+	CommonLimit = 30
+	MobMaxSize  = 30
 
 	// Disable all specials
 	ProhibitBosses = true
@@ -17,10 +16,36 @@ MutationOptions <- {
 	SmokerLimit    = 0
 }
 
-last_time <- -1
 function Update() {
-	if (last_time < Time() - 1) {
-		DirectorScript.DirectorOptions.CommonLimit += 1;
-		last_time = Time();
+	EntCall( "player", kill_tanks );
+}
+
+function kill_tanks( p ) {
+	if ( !p.IsSurvivor() && p.GetHealth() > 100 ) {
+		p.Kill();
 	}
 }
+
+NewHUD <- {
+	Fields = {
+		perwave = {
+			slot         = HUD_TICKER
+			flags        = HUD_FLAG_NOBG | HUD_FLAG_POSTSTR
+			name         = "perwave"
+			staticstring = " infected per wave"
+			datafunc     = @() g_ModeScript.DirectorOptions.CommonLimit
+		}
+	}
+}
+
+function OnGameEvent_survival_round_start( params ) {
+	DirectorOptions.CommonLimit <- 15;
+	DirectorOptions.MobMaxSize <- 15;
+}
+
+function OnGameEvent_create_panic_event( params ) {
+	DirectorOptions.CommonLimit += 15;
+	DirectorOptions.MaxMobSize += 15;
+}
+
+HUDSetLayout( NewHUD )

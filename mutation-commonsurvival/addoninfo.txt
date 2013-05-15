@@ -2,11 +2,11 @@ AddonInfo {
 	addonSteamAppID 550
 	addontitle "Mutation: Common Survival"
 	addonversion 1.0
-	addontagline "Survival mode, but without special infected."
+	addontagline "Pure zombie-shooting action!"
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
 	//addonURL0 ""
-	addonDescription "Survival mode, but without special infected."
+	addonDescription "Pure zombie-shooting action!"
 }
 
