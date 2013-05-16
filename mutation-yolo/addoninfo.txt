@@ -1,7 +1,7 @@
 AddonInfo {
 	addonSteamAppID 550
 	addontitle "Mutation: YOLO"
-	addonversion 1.0
+	addonversion 1.1
 	addontagline "You only live once. Unless someone brought a defibrillator."
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"

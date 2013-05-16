@@ -1,7 +1,7 @@
 AddonInfo {
 	addonSteamAppID 550
 	addontitle "Mutation: Splat!"
-	addonversion 1.0
+	addonversion 1.1
 	addontagline "Boomers. Vomit. Death."
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"

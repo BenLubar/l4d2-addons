@@ -7,7 +7,7 @@
 
 	"DisplayTitle"	"Splat!"
 	"Description"	"Boomers. Vomit. Death."
-	"Image"		"maps/any"
+	"Image"		"vgui/mutation/splat"
 	"Author"	"Nightgunner5"
 }
 

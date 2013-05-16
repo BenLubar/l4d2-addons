@@ -7,7 +7,7 @@
 
 	"DisplayTitle"	"Tetramagnum"
 	"Description"	"Four survivors. Four magnum pistols."
-	"Image"		"maps/any"
+	"Image"		"vgui/mutation/tetramagnum"
 	"Author"	"Nightgunner5"
 }
 

@@ -6,7 +6,7 @@
 
 	"DisplayTitle"	"Common Survival"
 	"Description"	"Pure zombie-shooting action!"
-	"Image"		"maps/any"
+	"Image"		"vgui/mutation/commonsurvival"
 	"Author"	"Nightgunner5"
 }
 

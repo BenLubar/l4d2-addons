@@ -7,7 +7,7 @@
 
 	"DisplayTitle"	"YOLO"
 	"Description"	"You only live once. Unless someone brought a defibrillator."
-	"Image"		"maps/any"
+	"Image"		"vgui/mutation/yolo"
 	"Author"	"Nightgunner5"
 }
 

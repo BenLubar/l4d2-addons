@@ -1,7 +1,7 @@
 AddonInfo {
 	addonSteamAppID 550
 	addontitle "Mutation: Tetramagnum"
-	addonversion 1.0
+	addonversion 1.1
 	addontagline "Four survivors. Four magnum pistols."
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"

@@ -7,7 +7,7 @@
 
 	"DisplayTitle"	"The Floor is Lava"
 	"Description"	"Hate spitters? Now you'll hate them more."
-	"Image"		"maps/any"
+	"Image"		"vgui/mutation/floorislava"
 	"Author"	"Nightgunner5"
 }
 
