@@ -6,7 +6,13 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "Four survivors. Four magnum pistols."
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=144005237"
+	addonDescription "Four survivors. Four magnum pistols.
+
+That's it. No other guns. No health packs. No special infected, apart from a few boomers.
+
+Well, QUITE a few boomers.
+
+Stock up on painkillers. You're going to need them."
 }
 

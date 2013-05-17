@@ -6,7 +6,13 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "Boomers. Vomit. Death."
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=144960735"
+	addonDescription "Boomers. Vomit. Death.
+
+You really REALLY do not want to let them puke on you. It'll do more than stain your clothes and make you smell bad. This stuff will kill you.
+
+Normally, only boomers will spawn. No other infected. But beware, get a drop of that bile on you and every zombie south of Canada can smell you.
+
+Don't all die at once!"
 }
 

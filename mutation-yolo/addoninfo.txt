@@ -6,7 +6,15 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "You only live once. Unless someone brought a defibrillator."
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=144801772"
+	addonDescription "You only live once. At least, until someone finds a defibrillator.
+
+This realism mutation couples the excitement of 'two zombies at the same time' with the fun that is 'you have five health'.
+
+Survive the zombie apocalypse. Or don't. You're inches away from dying with no health or pain pills in sight.
+
+Oh, and by the way, that 'two zombies at the same time' thing? That's going to happen constantly. Forever. You kill a special infected and another one pops up behind you and strangles Ellis.
+
+#yolo"
 }
 

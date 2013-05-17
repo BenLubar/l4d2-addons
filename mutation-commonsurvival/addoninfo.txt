@@ -6,7 +6,13 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "Pure zombie-shooting action!"
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=145125634"
+	addonDescription "Do you love shooting zombies but hate all the strategy involved?
+
+'Do I shoot the boomer over there or should I aim my shotgun a bit to the left and shoot the hunter?'
+
+No longer! With Common Survival, all you have to do is aim at a zombie's head and click! It's that simple!
+
+Oh, and by the way, once you've killed those first 30 zombies, the next group is 45. Then 60. Then 75. Eventually, you're fighting the floor - and the floor is made of zombies!"
 }
 

@@ -6,7 +6,11 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "Special infected aren't so special anymore."
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=145458701"
+	addonDescription "Special infected aren't so special anymore.
+
+This versus mutation makes every special infected that appears during a round the same type. All boomers, all spitters, all chargers, all hunters, all jockeys, or all smokers.
+
+Prepare for hunter-hunter-hunter combos, or smoker-smoker-smoker combos, or charger-charger-charger combos, or..."
 }
 

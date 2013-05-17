@@ -6,7 +6,9 @@ AddonInfo {
 	addonauthor "Nightgunner5"
 	addonauthorSteamID "nightgunner5"
 	addonContent_Mutation 1
-	//addonURL0 ""
-	addonDescription "Hate spitters? Now you'll hate them more."
+	addonURL0 "http://steamcommunity.com/sharedfiles/filedetails/?id=143681702"
+	addonDescription "Do you hate spitters? Are you scared of burning to death in a pool of acid? Prepare to be horrified.
+
+This coop mutation removes most of the infected, but not spitters; increasing the maximum number from 2 to 14. Witches and tanks are left unchanged."
 }
 
