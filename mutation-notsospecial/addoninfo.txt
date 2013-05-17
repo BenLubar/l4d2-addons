@@ -1,0 +1,12 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Not So Special"
+	addonversion 1.0
+	addontagline "Special infected aren't so special anymore."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	//addonURL0 ""
+	addonDescription "Special infected aren't so special anymore."
+}
+

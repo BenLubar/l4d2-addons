@@ -1,0 +1,12 @@
+"notsospecial" {
+	"base"		"versus"
+
+	"maxplayers"	"8"
+	"playercontrolledzombies"	"1"
+
+	"DisplayTitle"	"Not So Special"
+	"Description"	"Special infected aren't so special anymore."
+	"Image"		"vgui/mutation/notsospecial"
+	"Author"	"Nightgunner5"
+}
+
