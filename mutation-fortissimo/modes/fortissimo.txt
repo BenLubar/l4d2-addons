@@ -1,0 +1,12 @@
+"fortissimo"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Fortissimo"
+	"Description"	"A never-ending symphony of death."
+	"Image"		"vgui/mutation/fortissimo"
+	"Author"	"Nightgunner5"
+}

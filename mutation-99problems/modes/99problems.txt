@@ -1,0 +1,16 @@
+"99problems"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"99 Problems"
+	"Description"	"And witches are all of them."
+	"Image"		"vgui/mutation/99problems"
+	"Author"	"Nightgunner5"
+
+	cvars {
+		"sv_infinite_primary_ammo" 1
+	}
+}

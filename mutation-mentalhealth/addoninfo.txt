@@ -1,0 +1,11 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Mental Health"
+	addonversion 1.0
+	addontagline "Maintain your sanity through the deliberate assassination of others."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "You're bleeding out and the only way to recover health is by finishing off enemies with headshots. Accuracy and teamwork will be necessary to survive."
+}
+

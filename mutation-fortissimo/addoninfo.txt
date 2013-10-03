@@ -1,0 +1,10 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Fortissimo"
+	addonversion 1.0
+	addontagline "A never-ending symphony of death."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "Fight through an unrelenting horde of infected til the end. They'll never let up and neither should you."
+}

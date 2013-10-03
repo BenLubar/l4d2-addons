@@ -1,0 +1,12 @@
+"mentalhealth"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Mental Health"
+	"Description"	"Maintain your sanity through the deliberate assassination of others."
+	"Image"		"vgui/mutation/mentalhealth"
+	"Author"	"Nightgunner5"
+}

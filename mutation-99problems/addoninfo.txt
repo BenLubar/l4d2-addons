@@ -1,0 +1,10 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: 99 Problems"
+	addonversion 1.0
+	addontagline "And witches are all of them."
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "Avoid, crown, and otherwise kill witches who replace all normal common infected spawns."
+}
