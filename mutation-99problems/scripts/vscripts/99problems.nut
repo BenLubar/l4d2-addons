@@ -32,5 +32,4 @@ function replace_with_witch(ent) {
 		ang  = ent.GetAngles()
 	});
 	ent.Kill();
-	witch.SetHealth(100);
 }

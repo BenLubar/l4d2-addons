@@ -10,7 +10,8 @@
 	"Image"		"vgui/mutation/99problems"
 	"Author"	"Nightgunner5"
 
-	cvars {
+	"convar" {
 		"sv_infinite_primary_ammo" 1
+		"z_witch_health" 300
 	}
 }
