@@ -1,0 +1,11 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Krowmaet"
+	addonversion 1.0
+	addontagline "tagline"
+	addonauthor "Nightgunner5"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "description"
+}
+

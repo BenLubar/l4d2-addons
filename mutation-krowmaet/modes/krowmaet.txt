@@ -1,0 +1,12 @@
+"krowmaet"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Krowmaet"
+	"Description"	"description"
+	"Image"		"vgui/mutation/krowmaet"
+	"Author"	"Nightgunner5"
+}
