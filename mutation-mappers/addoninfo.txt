@@ -1,0 +1,11 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Mappers' Mutation"
+	addonversion 1.0
+	addontagline "A game that plays itself!"
+	addonauthor "Ben Lubar"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "A game that plays itself!"
+}
+
