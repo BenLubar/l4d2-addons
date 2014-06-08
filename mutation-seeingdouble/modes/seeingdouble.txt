@@ -1,0 +1,12 @@
+"seeingdouble"
+{
+	"base"		"coop"
+
+	"maxplayers"	"4"
+	"hasdifficulty" "1"
+
+	"DisplayTitle"	"Seeing Double"
+	"Description"	"Double the special infected, double the fun."
+	"Image"		"vgui/mutation/seeingdouble"
+	"Author"	"Ben Lubar"
+}

@@ -1,0 +1,10 @@
+AddonInfo {
+	addonSteamAppID 550
+	addontitle "Mutation: Seeing Double"
+	addonversion 1.0
+	addontagline "Two of every... Animal?"
+	addonauthor "Ben Lubar"
+	addonauthorSteamID "nightgunner5"
+	addonContent_Mutation 1
+	addonDescription "Double the special infected, double the fun."
+}
